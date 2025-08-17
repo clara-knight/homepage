@@ -1,7 +1,7 @@
 # Homepage
 HTML, CSS, and JS code for my homepage.
 
-# Typeface license
+## Typeface license
 Fonts used under CC BY-ND 4.0:
 « Le caractère Faune utilisé dans ce document a été créé par Alice Savoie dans le cadre d’une commande du Centre national des arts plastiques en partenariat avec le Groupe Imprimerie Nationale »
 https://www.cnap.fr/sites/faune/
